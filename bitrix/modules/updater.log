@@ -1,0 +1,34 @@
+2022-02-21 16:43:50 -  - exec CUpdateClient::GetUpdatesList
+2022-02-21 16:43:50 -  - exec CUpdateClient::CollectRequestData
+2022-02-21 16:43:50 -  - LICENSE_KEY=X&lang=s1&SUPD_VER=20.600.1&VERSION=21.400.100&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=miron-bitrix.ru&CHHB=miron-bitrix.ru&CSAB=%3A%3A1&SUID=95682171218f735bda8c7ef0aa24df6c&CANGZIP=Y&CLIENT_PHPVER=7.4.28&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=21.400.100&bitm_b24connector=21.0.0&bitm_bitrixcloud=21.0.0&bitm_blog=21.200.0&bitm_clouds=21.100.0&bitm_fileman=21.200.0&bitm_form=21.0.0&bitm_forum=21.100.0&bitm_highloadblock=21.100.0&bitm_iblock=21.400.100&bitm_landing=21.300.300&bitm_messageservice=21.100.0&bitm_mobileapp=21.0.50&bitm_perfmon=21.0.0&bitm_photogallery=21.0.0&bitm_rest=21.200.0&bitm_scale=21.0.0&bitm_search=21.0.100&bitm_security=21.0.0&bitm_seo=21.300.0&bitm_socialservices=21.100.0&bitm_subscribe=21.0.0&bitm_translate=21.100.0&bitm_ui=21.300.0&bitm_vote=21.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-N
+2022-02-21 16:43:50 -  - exec CUpdateClient::GetHTTPPage
+2022-02-21 16:43:54 -  - TIME GetUpdatesList(request) 3.733 sec
+2022-02-21 16:43:54 -  - exec CUpdateClient::ParseServerData
+2022-02-21 16:44:02 -  - exec CUpdateClient::GetUpdatesList
+2022-02-21 16:44:02 -  - exec CUpdateClient::CollectRequestData
+2022-02-21 16:44:02 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.600.1&VERSION=21.400.100&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=miron-bitrix.ru&CHHB=miron-bitrix.ru&CSAB=%3A%3A1&SUID=95682171218f735bda8c7ef0aa24df6c&CANGZIP=Y&CLIENT_PHPVER=7.4.28&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=21.400.100&bitm_b24connector=21.0.0&bitm_bitrixcloud=21.0.0&bitm_blog=21.200.0&bitm_clouds=21.100.0&bitm_fileman=21.200.0&bitm_form=21.0.0&bitm_forum=21.100.0&bitm_highloadblock=21.100.0&bitm_iblock=21.400.100&bitm_landing=21.300.300&bitm_messageservice=21.100.0&bitm_mobileapp=21.0.50&bitm_perfmon=21.0.0&bitm_photogallery=21.0.0&bitm_rest=21.200.0&bitm_scale=21.0.0&bitm_search=21.0.100&bitm_security=21.0.0&bitm_seo=21.300.0&bitm_socialservices=21.100.0&bitm_subscribe=21.0.0&bitm_translate=21.100.0&bitm_ui=21.300.0&bitm_vote=21.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-N
+2022-02-21 16:44:02 -  - exec CUpdateClient::GetHTTPPage
+2022-02-21 16:44:02 -  - TIME GetUpdatesList(request) 0.423 sec
+2022-02-21 16:44:02 -  - exec CUpdateClient::ParseServerData
+2022-02-21 16:44:18 -  - exec CUpdateClient::UpdateUpdate
+2022-02-21 16:44:18 -  - exec CUpdateClient::CollectRequestData
+2022-02-21 16:44:18 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.600.1&VERSION=21.400.100&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=miron-bitrix.ru&CHHB=miron-bitrix.ru&CSAB=%3A%3A1&SUID=95682171218f735bda8c7ef0aa24df6c&CANGZIP=Y&CLIENT_PHPVER=7.4.28&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=21.400.100&bitm_b24connector=21.0.0&bitm_bitrixcloud=21.0.0&bitm_blog=21.200.0&bitm_clouds=21.100.0&bitm_fileman=21.200.0&bitm_form=21.0.0&bitm_forum=21.100.0&bitm_highloadblock=21.100.0&bitm_iblock=21.400.100&bitm_landing=21.300.300&bitm_messageservice=21.100.0&bitm_mobileapp=21.0.50&bitm_perfmon=21.0.0&bitm_photogallery=21.0.0&bitm_rest=21.200.0&bitm_scale=21.0.0&bitm_search=21.0.100&bitm_security=21.0.0&bitm_seo=21.300.0&bitm_socialservices=21.100.0&bitm_subscribe=21.0.0&bitm_translate=21.100.0&bitm_ui=21.300.0&bitm_vote=21.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-N&query_type=updateupdate
+2022-02-21 16:44:18 -  - exec CUpdateClient::GetHTTPPage
+2022-02-21 16:44:24 -  - TIME UpdateUpdate(request) 5.432 sec
+2022-02-21 16:44:24 -  - exec CUpdateClient::UnGzipArchive
+2022-02-21 16:44:24 -  - TIME UnGzipArchive 0.032 sec
+2022-02-21 16:44:24 -  - exec CUpdateClient::ParseServerData
+2022-02-21 16:44:24 - CURV - Update updated successfully!
+2022-02-21 16:44:24 - UPD_SUCCESS - Update system updated
+2022-02-21 16:44:24 -  - exec CUpdateClient::GetUpdatesList
+2022-02-21 16:44:24 -  - exec CUpdateClient::CollectRequestData
+2022-02-21 16:44:24 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=21.1200.0&VERSION=21.400.100&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=miron-bitrix.ru&CHHB=miron-bitrix.ru&CSAB=%3A%3A1&SUID=95682171218f735bda8c7ef0aa24df6c&CANGZIP=Y&CLIENT_PHPVER=7.4.28&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=21.400.100&bitm_b24connector=21.0.0&bitm_bitrixcloud=21.0.0&bitm_blog=21.200.0&bitm_clouds=21.100.0&bitm_fileman=21.200.0&bitm_form=21.0.0&bitm_forum=21.100.0&bitm_highloadblock=21.100.0&bitm_iblock=21.400.100&bitm_landing=21.300.300&bitm_messageservice=21.100.0&bitm_mobileapp=21.0.50&bitm_perfmon=21.0.0&bitm_photogallery=21.0.0&bitm_rest=21.200.0&bitm_scale=21.0.0&bitm_search=21.0.100&bitm_security=21.0.0&bitm_seo=21.300.0&bitm_socialservices=21.100.0&bitm_subscribe=21.0.0&bitm_translate=21.100.0&bitm_ui=21.300.0&bitm_vote=21.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-N
+2022-02-21 16:44:24 -  - exec CUpdateClient::GetHTTPPage
+2022-02-21 16:44:26 -  - TIME GetUpdatesList(request) 2.083 sec
+2022-02-21 16:44:26 -  - exec CUpdateClient::ParseServerData
+2022-02-21 16:50:06 -  - exec CUpdateClient::GetUpdatesList
+2022-02-21 16:50:06 -  - exec CUpdateClient::CollectRequestData
+2022-02-21 16:50:06 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=21.1200.0&VERSION=21.400.100&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=miron-bitrix.ru&CHHB=miron-bitrix.ru&CSAB=%3A%3A1&SUID=95682171218f735bda8c7ef0aa24df6c&CANGZIP=Y&CLIENT_PHPVER=7.4.28&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=21.400.100&bitm_b24connector=21.0.0&bitm_bitrixcloud=21.0.0&bitm_blog=21.200.0&bitm_clouds=21.100.0&bitm_fileman=21.200.0&bitm_form=21.0.0&bitm_forum=21.100.0&bitm_highloadblock=21.100.0&bitm_iblock=21.400.100&bitm_landing=21.300.300&bitm_messageservice=21.100.0&bitm_mobileapp=21.0.50&bitm_perfmon=21.0.0&bitm_photogallery=21.0.0&bitm_rest=21.200.0&bitm_scale=21.0.0&bitm_search=21.0.100&bitm_security=21.0.0&bitm_seo=21.300.0&bitm_socialservices=21.100.0&bitm_subscribe=21.0.0&bitm_translate=21.100.0&bitm_ui=21.300.0&bitm_vote=21.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2022-02-21 16:50:06 -  - exec CUpdateClient::GetHTTPPage
+2022-02-21 16:50:07 -  - TIME GetUpdatesList(request) 0.58 sec
+2022-02-21 16:50:07 -  - exec CUpdateClient::ParseServerData
